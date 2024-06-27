@@ -1,0 +1,32 @@
+
+
+.boda {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.boda h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.photos-boda {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.photos-boda img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.photos-boda img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}

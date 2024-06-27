@@ -1,0 +1,16 @@
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+#gallery .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#gallery .gallery img {
+    margin: 10px;
+    border: 2px solid #ccc;
+    max-width: 300px;
+}
