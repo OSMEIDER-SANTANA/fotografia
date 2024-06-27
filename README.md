@@ -11,4 +11,5 @@ Pagina web Estudio Fotografico
 ![](https://github.com/OSMEIDER-SANTANA/fotografia/blob/main/img/4%20pagina%20grados.jpg)
 # EVENTOS Y CUMPLEAÑOS
 ![](https://github.com/OSMEIDER-SANTANA/fotografia/blob/main/img/5%20pagina%20cumplea%C3%B1os.jpg)
+# CONTACTOS
 ![](https://github.com/OSMEIDER-SANTANA/fotografia/blob/main/img/6%20pagina%20contactos.jpg)
